@@ -1,2 +1,2 @@
 # atalaymetin.github.io
-Apps
+This is for my apps.
